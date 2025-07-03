@@ -3,6 +3,7 @@
 This project predicts salaries based on years of experience using Linear Regression.
 
 It is a beginner-friendly machine learning project that demonstrates:
+
 ✅ Data cleaning  
 ✅ Exploratory Data Analysis (EDA)  
 ✅ Building a Linear Regression model  
