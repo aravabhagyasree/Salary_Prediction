@@ -16,7 +16,7 @@ It is a beginner-friendly machine learning project that demonstrates:
   - YearsExperience (Input Feature)
   - Salary (Target)
 **Technologies used** :
-- Python 🐍
+- Python 
 - Pandas
 - Numpy
 - Matplotlib
